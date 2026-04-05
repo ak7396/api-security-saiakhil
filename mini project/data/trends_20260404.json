@@ -700,5 +700,266 @@
         "num_comments": 0,
         "author": "ColinWright",
         "collected_at": "2026-04-04 18:22:35"
+    },
+    {
+        "post_id": 47622616,
+        "title": "The Technocracy Movement of the 1930s",
+        "category": "technology",
+        "score": 163,
+        "num_comments": 126,
+        "author": "lazydogbrownfox",
+        "collected_at": "2026-04-04 18:19:03"
+    },
+    {
+        "post_id": 47633676,
+        "title": "Extra usage credit for Pro, Max, and Team plans",
+        "category": "sports",
+        "score": 61,
+        "num_comments": 59,
+        "author": "angst",
+        "collected_at": "2026-04-04 18:19:04"
+    },
+    {
+        "post_id": 47640984,
+        "title": "Iran's Network of Cameras Bolsters Air Defenses, Expert Says",
+        "category": "technology",
+        "score": 42,
+        "num_comments": 14,
+        "author": "uxhacker",
+        "collected_at": "2026-04-04 18:19:05"
+    },
+    {
+        "post_id": 47579818,
+        "title": "What we learned building 100 API integrations with OpenCode",
+        "category": "technology",
+        "score": 98,
+        "num_comments": 21,
+        "author": "rguldener",
+        "collected_at": "2026-04-04 18:19:10"
+    },
+    {
+        "post_id": 47632503,
+        "title": "Iran strikes leave Amazon availability zones \"hard down\" in Bahrain and Dubai",
+        "category": "technology",
+        "score": 233,
+        "num_comments": 114,
+        "author": "upofadown",
+        "collected_at": "2026-04-04 18:19:12"
+    },
+    {
+        "post_id": 47633640,
+        "title": "How to Write Unmaintainable Code (1999)",
+        "category": "technology",
+        "score": 48,
+        "num_comments": 15,
+        "author": "downbad_",
+        "collected_at": "2026-04-04 18:19:13"
+    },
+    {
+        "post_id": 47639207,
+        "title": "Show HN: Tokencap \u2013 Token budget enforcement across your AI agents",
+        "category": "technology",
+        "score": 6,
+        "num_comments": 0,
+        "author": "pykul",
+        "collected_at": "2026-04-04 18:19:17"
+    },
+    {
+        "post_id": 47609492,
+        "title": "50 years measuring the cleanest air",
+        "category": "technology",
+        "score": 23,
+        "num_comments": 5,
+        "author": "defrost",
+        "collected_at": "2026-04-04 18:19:20"
+    },
+    {
+        "post_id": 47626598,
+        "title": "Show HN: ctx \u2013 an Agentic Development Environment (ADE)",
+        "category": "entertainment",
+        "score": 47,
+        "num_comments": 51,
+        "author": "luca-ctx",
+        "collected_at": "2026-04-04 18:19:22"
+    },
+    {
+        "post_id": 47635033,
+        "title": "Show HN: Travel Hacking Toolkit \u2013 Points search and trip planning with AI",
+        "category": "technology",
+        "score": 88,
+        "num_comments": 36,
+        "author": "borski",
+        "collected_at": "2026-04-04 18:19:24"
+    },
+    {
+        "post_id": 47630109,
+        "title": "Firm boosts H.264 streaming license fees from $100k up to staggering $4.5M",
+        "category": "entertainment",
+        "score": 182,
+        "num_comments": 68,
+        "author": "MaximilianEmel",
+        "collected_at": "2026-04-04 18:19:31"
+    },
+    {
+        "post_id": 47638532,
+        "title": "Show HN: Ownscribe \u2013 local meeting transcription, summarization and search",
+        "category": "entertainment",
+        "score": 4,
+        "num_comments": 0,
+        "author": "paberr",
+        "collected_at": "2026-04-04 18:19:36"
+    },
+    {
+        "post_id": 47615002,
+        "title": "Qwen3.6-Plus: Towards real world agents",
+        "category": "worldnews",
+        "score": 583,
+        "num_comments": 205,
+        "author": "pretext",
+        "collected_at": "2026-04-04 18:19:41"
+    },
+    {
+        "post_id": 47632692,
+        "title": "Show HN: Mtproto.zig \u2013 High-performance Telegram proxy with DPI evasion",
+        "category": "entertainment",
+        "score": 21,
+        "num_comments": 14,
+        "author": "slp3r",
+        "collected_at": "2026-04-04 18:19:43"
+    },
+    {
+        "post_id": 47609564,
+        "title": "Steam on Linux Use Skyrocketed Above 5% in March",
+        "category": "sports",
+        "score": 777,
+        "num_comments": 364,
+        "author": "hkmaxpro",
+        "collected_at": "2026-04-04 18:19:48"
+    },
+    {
+        "post_id": 47631030,
+        "title": "Show HN: Ismcpdead.com \u2013 Live dashboard tracking MCP adoption and sentiment",
+        "category": "entertainment",
+        "score": 35,
+        "num_comments": 21,
+        "author": "sagirodin",
+        "collected_at": "2026-04-04 18:19:50"
+    },
+    {
+        "post_id": 47621438,
+        "title": "Show HN: Made a little Artemis II tracker",
+        "category": "entertainment",
+        "score": 148,
+        "num_comments": 55,
+        "author": "codingmoh",
+        "collected_at": "2026-04-04 18:19:54"
+    },
+    {
+        "post_id": 47606560,
+        "title": "Show HN: Dull \u2013 Instagram Without Reels, YouTube Without Shorts (iOS)",
+        "category": "entertainment",
+        "score": 151,
+        "num_comments": 117,
+        "author": "kasparnoor",
+        "collected_at": "2026-04-04 18:19:58"
+    },
+    {
+        "post_id": 47636820,
+        "title": "Show HN: Web Push Notifications for Hacker News",
+        "category": "entertainment",
+        "score": 4,
+        "num_comments": 1,
+        "author": "kinlan",
+        "collected_at": "2026-04-04 18:19:59"
+    },
+    {
+        "post_id": 47631648,
+        "title": "Automatic Textbook Formalization",
+        "category": "entertainment",
+        "score": 43,
+        "num_comments": 17,
+        "author": "tzury",
+        "collected_at": "2026-04-04 18:20:00"
+    },
+    {
+        "post_id": 47615756,
+        "title": "Renewables reached nearly 50% of global electricity capacity last year",
+        "category": "worldnews",
+        "score": 295,
+        "num_comments": 146,
+        "author": "Growtika",
+        "collected_at": "2026-04-04 18:20:01"
+    },
+    {
+        "post_id": 47604155,
+        "title": "SpaceX files to go public",
+        "category": "science",
+        "score": 394,
+        "num_comments": 571,
+        "author": "nutjob2",
+        "collected_at": "2026-04-04 18:20:03"
+    },
+    {
+        "post_id": 47612601,
+        "title": "Sweden goes back to basics, swapping screens for books in the classroom",
+        "category": "entertainment",
+        "score": 897,
+        "num_comments": 430,
+        "author": "novaRom",
+        "collected_at": "2026-04-04 18:20:09"
+    },
+    {
+        "post_id": 47634328,
+        "title": "Show HN: DotReader \u2013 connects ideas across your books automatically",
+        "category": "entertainment",
+        "score": 5,
+        "num_comments": 2,
+        "author": "efecerre",
+        "collected_at": "2026-04-04 18:20:10"
+    },
+    {
+        "post_id": 47642779,
+        "title": "Big Banks Seeking a Piece of SpaceX's IPO Must Subscribe to Elon Musk's Grok",
+        "category": "science",
+        "score": 7,
+        "num_comments": 0,
+        "author": "codydh",
+        "collected_at": "2026-04-04 18:20:10"
+    },
+    {
+        "post_id": 47642979,
+        "title": "Show HN: Using RasPi and Qwen 2.5 VL to find out when birds visit my balcony",
+        "category": "entertainment",
+        "score": 4,
+        "num_comments": 0,
+        "author": "akshay326",
+        "collected_at": "2026-04-04 18:20:11"
+    },
+    {
+        "post_id": 47612277,
+        "title": "Almighty Lisp: Lisp and Emacs Essentials Book",
+        "category": "entertainment",
+        "score": 73,
+        "num_comments": 4,
+        "author": "nemoniac",
+        "collected_at": "2026-04-04 18:20:13"
+    },
+    {
+        "post_id": 47615844,
+        "title": "Show HN: A P2P messenger with dual network modes (Fast and Tor)",
+        "category": "entertainment",
+        "score": 39,
+        "num_comments": 22,
+        "author": "Realman78",
+        "collected_at": "2026-04-04 18:20:22"
+    },
+    {
+        "post_id": 47612321,
+        "title": "Show HN: I built a DNS resolver from scratch in Rust \u2013 no DNS libraries",
+        "category": "entertainment",
+        "score": 112,
+        "num_comments": 65,
+        "author": "rdme",
+        "collected_at": "2026-04-04 18:20:25"
     }
 ]
